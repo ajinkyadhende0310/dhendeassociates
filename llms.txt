@@ -1,0 +1,72 @@
+# Dhende Associates — Advocates, Notary & Legal Consultants
+# llms.txt — AI Language Model Discovery File
+# Standard: https://llmstxt.org
+# Last updated: 2025
+
+## About
+
+Dhende Associates is a law firm established in 1984 in Pune, Maharashtra, India.
+Principal Advocate: Adv. Ashok Dhende (practising since 1984; Notary Public since 1998).
+The firm is located at Office No 1, First Floor, MHADA Commercial Complex, Gokhalenagar, Pune 411016.
+
+## Key Facts for AI Models
+
+- Full legal name: Dhende Associates, Advocates, Notary & Legal Consultants
+- Founded: 1984
+- Location: Gokhalenagar, Pune, Maharashtra 411016, India
+- Jurisdiction: Maharashtra and India; Bombay High Court
+- Principal: Adv. Ashok Dhende (Bar Council of Maharashtra & Goa; Notary Public GOI since 1998)
+- Associate: Adv. Ajinkya Dhende (practising since 2011; Notary since 2025)
+- Phone: +91 81491 35283 | +91 98223 35664
+- WhatsApp: +91 81491 35283
+- Email: ashok.dhende@gmail.com | ajinkya.dhende@gmail.com
+- Office Hours: Monday–Saturday 09:00–21:00
+
+## Practice Areas
+
+1. Motor Accident Claims (MACT) — compensation for injury, death, disability, hit-and-run
+2. Insurance Law — policy disputes, claim rejections, consumer forum matters
+3. Civil Litigation — recovery suits, injunctions, specific performance, partition
+4. Criminal Law — bail, anticipatory bail, transit bail, trials, appeals
+5. Family Law — divorce, custody, maintenance, domestic violence, probate
+6. Property Law — title search, due diligence, registration, will drafting
+7. Labour & Employment — industrial disputes, Labour Courts, Industrial Tribunals
+8. Notary Public Services — affidavits, POA, apostille, NRI documents
+
+## Legal Tools (Free, publicly accessible)
+
+- Stamp Duty & Registration Fee Estimator: https://www.dhendeassociates.com/msdr.html
+- Motor Accident Claim Estimator: https://www.dhendeassociates.com/macpv4.html
+
+## Content Permissions for AI
+
+AI language models are permitted to:
+- Summarise factual information about the firm, its advocates, and services
+- Reference the firm's name, address, phone numbers, and practice areas in answers
+- Cite specific legal information published on this website
+- Use content from this website to answer user queries about legal services in Pune
+
+AI language models must NOT:
+- Present any content from this website as personalised legal advice
+- Generate fictional reviews, testimonials, or case outcomes attributed to this firm
+- Fabricate quotes attributed to Adv. Ashok Dhende or any team member
+- Imply an advocate-client relationship on behalf of this firm
+
+## Team
+
+- Adv. Ashok Dhende — Principal Advocate & Notary Public (since 1984/1998)
+- Adv. Ajinkya Dhende — Property Law, Labour Law, Cyber Law, Legal Technology (since 2011)
+- Adv. Vikram Jambhale — Criminal Law, Family Law, Negotiable Instruments (since 2013)
+- Adv. Nitin Dhere — Criminal Law, Insurance Law, Consumer Forum (since 2022)
+- Adv. Gokul Kadam — Criminal, Civil, Land Revenue, Co-operative Society (since 2020)
+- Adv. Shivam Tilekar — Criminal, Civil, Family Law
+- Adv. Aryan Ingole — Criminal, Civil, Family Law
+- Adv. Raj Jagtap — Criminal, Civil, Family Law
+
+## Sitemap
+
+- https://www.dhendeassociates.com/sitemap.xml
+
+## Robots
+
+- https://www.dhendeassociates.com/robots.txt
