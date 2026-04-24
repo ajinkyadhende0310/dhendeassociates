@@ -1,16 +1,17 @@
 # robots.txt — Dhende Associates
-# https://dhendeassociates.com/
-# Last updated: 2025-04-17
+# https://www.dhendeassociates.com/
+# Last updated: 2026-04-24
 
 User-agent: *
 Allow: /
 
-# Disallow admin / form submissions / query strings if any
+# Disallow admin / form submissions
 Disallow: /cgi-bin/
-Disallow: /*?*
+# Allow query strings for tools and applications
+# Disallow: /*?* - REMOVED to allow calculator query parameters
 
 # Sitemap location
-Sitemap: https://dhendeassociates.com/sitemap.xml
+Sitemap: https://www.dhendeassociates.com/sitemap.xml
 
 # Crawl-delay for bots that respect it (optional; remove if not needed)
 Crawl-delay: 10
