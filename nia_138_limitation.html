@@ -60,6 +60,40 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 }
 </script>
 
+<!-- FAQ Schema -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the limitation period for Section 138 NI Act cases?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The limitation period for filing a complaint under Section 138 NI Act is 30 days from the date on which the notice of dishonor of the cheque is received by the drawer (accused). However, the cheque must be presented within 6 months of its date, and a notice of dishonor must be sent within 30 days of dishonor. Therefore, the total timeline involves: (1) Presentation within 6 months, (2) Notice sending within 30 days of dishonor, (3) Complaint filing within 30 days after the 15-day payment period expires."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What happens if I miss the deadline to file a complaint?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "If you miss the 30-day deadline for filing a complaint after the 15-day payment period expires, your complaint will be barred by limitation. You will lose the right to file a complaint under Section 138 NI Act. However, you may still pursue recovery through civil proceedings (Section 139 NI Act) or other remedies, but these are typically more cumbersome. It is therefore critical to file the complaint within the prescribed timeline."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "When does the 15-day payment period begin?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The 15-day payment period begins from the date the drawer (accused) receives the notice of dishonor. The notice must be delivered within 30 days of the cheque's dishonor. The exact start date depends on when the notice is physically delivered to the accused. If delivered between Day 1-30 after dishonor, the 15-day payment period starts from that delivery date. After this 15-day period expires without payment, you have 30 days to file a complaint before the magistrate."
+      }
+    }
+  ]
+}
+</script>
+
 <title>Section 138 NI Act — Limitation Calculator</title>
 <style>
 @import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@400;600;700&family=DM+Sans:wght@300;400;500;600&display=swap');
@@ -320,6 +354,17 @@ td.td-warn{color:#C2706F;font-weight:600}td.td-acc{color:#B8894A;font-weight:700
 height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <!-- End Google Tag Manager (noscript) -->
 <div class="wrap">
+
+<!-- Breadcrumb Navigation UI -->
+<div style="background: linear-gradient(135deg, rgba(60,16,113,0.03) 0%, rgba(201,168,76,0.02) 100%); padding: 1rem 1.5rem; margin-bottom: 1rem; border-radius: 6px; border-left: 3px solid #c9a84c;">
+  <div style="font-size: 0.9rem; color: #6b5d52; display: flex; align-items: center; flex-wrap: wrap; gap: 0.5rem;">
+    <a href="index.html" style="color: #3a1060; font-weight: 500; text-decoration: none;">🏠 Home</a>
+    <span style="color: #b0a895;">›</span>
+    <a href="index.html#services" style="color: #3a1060; font-weight: 500; text-decoration: none;">Legal Services</a>
+    <span style="color: #b0a895;">›</span>
+    <span style="color: #6b5d52; font-weight: 600;">⚖️ Section 138 NI Act</span>
+  </div>
+</div>
 
 <!-- HEADER -->
 <div class="hdr">
@@ -817,5 +862,30 @@ function doPlan(){
   document.getElementById('planResults').scrollIntoView({behavior:'smooth'});
 }
 </script>
+
+<!-- RELATED SERVICES & INTERNAL LINKING -->
+<section style="background: linear-gradient(135deg, #f8f3ff 0%, #f0edfb 100%); padding: 3.5rem 2rem; margin-top: 2rem; border-radius: 12px;">
+  <div style="max-width: 900px; margin: 0 auto;">
+    <h2 style="font-size: 1.8rem; font-weight: 600; margin-bottom: 0.5rem; color: #3a1060; text-align: center;">Related Legal Services</h2>
+    <p style="text-align: center; color: #666; margin-bottom: 2rem; font-size: 0.95rem;">Explore our other legal tools and services in Maharashtra</p>
+    <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 1.5rem;">
+      <a href="motor-accident-claim-estimator.html" style="background: white; padding: 1.5rem; border-radius: 8px; text-decoration: none; border-left: 4px solid #c9a84c; box-shadow: 0 2px 8px rgba(0,0,0,0.08); transition: all 0.3s; display: flex; flex-direction: column; gap: 0.75rem;">
+        <div style="font-size: 2rem;">🚗</div>
+        <h3 style="font-size: 1.1rem; font-weight: 600; color: #3a1060; margin: 0;">Motor Accident Claim</h3>
+        <p style="font-size: 0.85rem; color: #666; margin: 0;">MACT compensation calculator for accident injury and death claims</p>
+      </a>
+      <a href="maharshtra-stampduty-estimator.html" style="background: white; padding: 1.5rem; border-radius: 8px; text-decoration: none; border-left: 4px solid #c9a84c; box-shadow: 0 2px 8px rgba(0,0,0,0.08); transition: all 0.3s; display: flex; flex-direction: column; gap: 0.75rem;">
+        <div style="font-size: 2rem;">🏠</div>
+        <h3 style="font-size: 1.1rem; font-weight: 600; color: #3a1060; margin: 0;">Stamp Duty Calculator</h3>
+        <p style="font-size: 0.85rem; color: #666; margin: 0;">Calculate property stamp duty & registration fees in Maharashtra</p>
+      </a>
+      <a href="leave-license-service.html" style="background: white; padding: 1.5rem; border-radius: 8px; text-decoration: none; border-left: 4px solid #c9a84c; box-shadow: 0 2px 8px rgba(0,0,0,0.08); transition: all 0.3s; display: flex; flex-direction: column; gap: 0.75rem;">
+        <div style="font-size: 2rem;">📋</div>
+        <h3 style="font-size: 1.1rem; font-weight: 600; color: #3a1060; margin: 0;">Leave & License</h3>
+        <p style="font-size: 0.85rem; color: #666; margin: 0;">Online L&L registration via IGR Maharashtra - Valid address proof</p>
+      </a>
+    </div>
+  </div>
+</section>
 </body>
 </html>
